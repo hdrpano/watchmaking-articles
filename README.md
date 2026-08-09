@@ -1,4 +1,4 @@
-# watchmaking-articles
+# Watchmaking Technical Articles
 Technical Articles about watchmaking
 
 # Performance Analysis APP
